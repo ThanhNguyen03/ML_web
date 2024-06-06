@@ -1,0 +1,8 @@
+# Bỏ qua thư mục node_modules
+node_modules/
+
+# Bỏ qua tất cả các file .log
+*.log
+
+# Bỏ qua các file cụ thể
+secret.txt
